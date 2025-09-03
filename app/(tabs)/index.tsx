@@ -9,7 +9,8 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Welcome!ss</Text>
+<Text className="text-amber-600">Welcome!</Text>
+<Text className="text-amber-600">Welcome!</Text>
     </View>
   );
 }
